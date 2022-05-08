@@ -17,7 +17,7 @@ The user can search by just one criteria or a combination to arrive at the desir
 
 _Below is an example of the table filtered by state._
 
-![hemisphere_images](https://github.com/emmanuelbrim/Mission-to-Mars/blob/main/Resources/Hemisphere%20images.PNG)
+![](https://github.com/emmanuelbrim/UFOs/blob/main/Resources/searches.PNG)
 
 
 * **Updating Web App with Mars Hemisphere Images and Title**
