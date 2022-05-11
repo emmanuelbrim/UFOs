@@ -27,4 +27,5 @@ This therefore is one drawback of the design.
 
 ### Recommendations
 - The case sensitivity of the search inputs could be relaxed so that searches can adapt to both lower and upper case items as well as white spaces.
+- The page can include a button to export the search results for printing or further analysis on a different platform.
 - 
